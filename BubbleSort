@@ -1,7 +1,3 @@
-package com.company;
-
-import java.util.Arrays;
-
 class bubble_sort {
 
     public static void main(String[] args) {
