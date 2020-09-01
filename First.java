@@ -39,7 +39,7 @@ public class Main {
             return a / b;
         }
         else {
-            System.out.println("Error");
+            System.out.println("На 0 делить нельзя!!!");
             return 0;
         }
     }
